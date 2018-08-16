@@ -1,0 +1,6 @@
+#showtooltip Chaos Strike
+/equipset [worn:Fishing Poles] Weapons
+/cleartarget [dead]
+/assist [help]
+/startattack
+/cast [harm] Chaos Strike

@@ -1,0 +1,6 @@
+#showtooltip SPELLNAME
+/equipset [worn:Fishing Poles] NAME_OF_EQUIPMENT_SET_WITH_ONLY_WEAPONS
+/cleartarget [dead]
+/assist [help]
+/startattack
+/cast [harm] SPELLNAME
