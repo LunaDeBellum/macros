@@ -1,0 +1,2 @@
+#showtooltip Flash Heal
+/cast [@mouseover,exists,help] flash heal;flash heal

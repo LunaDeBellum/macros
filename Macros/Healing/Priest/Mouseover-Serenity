@@ -1,0 +1,2 @@
+#showtooltip Holy Word: Serenity
+/cast [@mouseover,exists,help] Holy Word: Serenity;Holy Word: Serenity
